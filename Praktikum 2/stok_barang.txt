@@ -1,0 +1,10 @@
+BRG001,Roti,20
+BRG0010,Rinso,8
+BRG002,AirMineral,15
+BRG003,TehBotol,16
+BRG004,Mie,8
+BRG005,PucukHarum,9
+BRG006,Susu,6
+BRG007,Ayam,24
+BRG008,Kecap,10
+BRG009,Multo,7
