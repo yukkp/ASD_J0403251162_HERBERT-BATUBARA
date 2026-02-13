@@ -26,7 +26,7 @@ def baca_stok(nama_file):
     return stock_dict
 
 # buka_data =baca_stok(NAMA_FILE)
-print('jumlah Data Terbaca =',len(buka_data))
+print('jumlah Data Terbaca =',len(NAMA_FILE))
 
 # -------------------------------
 # Fungsi: Menyimpan data ke file
@@ -168,4 +168,5 @@ def main():
             print("Pilihan tidak valid. Silakan coba lagi.")
 
 if __name__ == "__main__":
+
     main()
